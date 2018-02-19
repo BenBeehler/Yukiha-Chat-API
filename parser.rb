@@ -65,7 +65,7 @@ $map[['are', 'you', 'hey', 'siri']]] = construct "That thing? Ha.", "I\'m not pa
 $map[['are', 'you', 'hey', 'alexa']]] = construct "Haha, very funy.", ""
 $map[['are', 'you', 'hey', 'okay', 'google']]] = construct "How dare you disgrace me in this way!", ""
 
-$map[['tell', 'joke']]] = construct "Which is a better search engine, Google or Bing? Wait let me google it", "I don\'t think that you would understand a joke in my language. They\'re not so funny, anyway.", "" 
+$map[['tell', 'joke']]] = construct "Which is a better search engine, Google or Bing? Wait let me google it", "" 
 
 # You can use the include? method:
 

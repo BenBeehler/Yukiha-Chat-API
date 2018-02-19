@@ -1,7 +1,7 @@
 require 'cleverbot'
 require_relative 'configapi.rb'
 
-$input
+$input = ""
 $starting = ""
 $name = "Yukiha"
 

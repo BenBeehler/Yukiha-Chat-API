@@ -61,6 +61,12 @@ $map[['you', 'boy']] = construct "No.", ""
 $map[['you', 'man']] = construct "No.", "" 
 $map[['you', 'masculine']] = construct "No.", "" 
 
+$map[['are', 'you', 'hey', 'siri']]] = construct "That thing? Ha.", "I\'m not particularly fond of the Apple cult myself."
+$map[['are', 'you', 'hey', 'alexa']]] = construct "Haha, very funy.", ""
+$map[['are', 'you', 'hey', 'okay', 'google']]] = construct "How dare you disgrace me in this way!", ""
+
+$map[['tell', 'joke']]] = construct "Which is a better search engine, Google or Bing? Wait let me google it", "I don\'t think that you would understand a joke in my language. They\'re not so funny, anyway.", "" 
+
 # You can use the include? method:
 
 def start

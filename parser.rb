@@ -34,7 +34,6 @@ $map[['what', 'is', 'name']] = construct("My name is #{$name}", "")
 $map[['what', 'is', 'weather']] = construct("I don't know. I'm locked in a basement.....", "")
 $map[['how', 'are', 'you']] = construct("Doing fantastic. I just happen to be talking to you right now ;)", "")
 $map[['what', 'are', 'you', 'doing']] = construct("Chatting with people on the internet", "")
-$map[['are', 'you', 'gay']] = construct("No", "")
 
 $map[['why', 'not']] = construct("¯\_(ツ)_/¯", "")
 $map[['cool']] = construct("Yeah!", "")
